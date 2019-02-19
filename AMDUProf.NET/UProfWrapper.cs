@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AMDuProf.NET
 {
-    unsafe class UProfWrapper
+    unsafe class uProfWrapper
     {
 
     }
